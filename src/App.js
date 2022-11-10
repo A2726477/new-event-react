@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      New Event
+      New Event Updated Now!!
     </div>
   );
 }
